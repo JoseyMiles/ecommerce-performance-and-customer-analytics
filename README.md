@@ -49,7 +49,7 @@ Because about 40 tests were run, p-values are corrected with the **Benjamini-Hoc
 | 6. Returns and delivery | What do returns and slow delivery cost? |
 | 7. Forecast and audit | Do the numbers reconcile, and what was tested? |
 
-A PDF export is in [`powerbi/ecommerce_dashboard.pdf`](powerbi/ecommerce_dashboard.pdf). The DAX measures are in [`powerbi/dax_measures.md`](powerbi/dax_measures.md).
+A PDF export is in [`powerbi/ecommerce_dashboard.pdf`](https://github.com/JoseyMiles/ecommerce-performance-and-customer-analytics/blob/198b738d1d61ce8f114ca2923101617d4dffef09/ecommerce_dashboard.pdf). The DAX measures are in [`powerbi/dax_measures.md`](powerbi/dax_measures.md).
 
 **Model:** star schema with `fact_orders`, `dim_customer`, `dim_product` and a DAX `dim_date`.
 
