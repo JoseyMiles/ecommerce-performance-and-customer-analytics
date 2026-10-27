@@ -1,4 +1,4 @@
-# E-commerce Analytics: From Raw Tables to a Tested Power BI Dashboard
+# E-commerce Business Intelligence: Insights, Forecasts & Strategic Recommendations
 
 An end-to-end analytics project on 25,000 e-commerce orders (Jan 2020 to 30 Mar 2026). Python handles the cleaning, validation and statistical testing. Power BI delivers a 7-page dashboard on a star-schema model.
 
