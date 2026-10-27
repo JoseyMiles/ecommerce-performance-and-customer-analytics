@@ -4,7 +4,7 @@ An end-to-end analytics project on 25,000 e-commerce orders (Jan 2020 to 30 Mar 
 
 The project asks business questions and tests every answer before reporting it. Most tested factors showed **no measurable effect**, and the report says so.
 
-![Executive Summary page](docs/images/01_executive_summary.png)
+![Executive Summary page](https://github.com/JoseyMiles/ecommerce-performance-and-customer-analytics/blob/a1ab35fd1d7ae64e0bebb7b15b49e59e1df40db1/Executive%20Summary.png)
 
 ## Headline results
 
